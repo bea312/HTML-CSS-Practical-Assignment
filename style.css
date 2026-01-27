@@ -224,3 +224,111 @@ h2 {
     text-align: center;
     color: #2e7d32;
 }
+/*mount kigali css*/
+
+ header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+
+        main {
+            width: 85%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        h2 {
+            color: #2e7d32;
+        }
+
+.mount-image-section {
+    display: flex;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.mount-image-section figure {
+    width: 33%;
+    text-align: center;
+}
+
+.mount-image-section img {
+    width: 100%;
+    border-radius: 8px;
+    border: 2px solid #ddd;
+}
+
+.mount-image-section figcaption {
+    font-size: 14px;
+    margin-top: 8px;
+    color: #555;
+}
+
+        
+
+       
+        ul {
+            margin-left: 20px;
+        }
+
+       
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #83ec8c;
+        }
+
+     
+        iframe {
+            width: 100%;
+            height: 300px;
+            border: 0;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+
+        .booking {
+        width: 300px;
+        
+    background-color: rgb(149, 240, 196);
+    padding: 30px 40px 50px ;
+    margin: 100px 50px;
+    border-radius: 20px;
+        }
+
+        .booking input,
+        .booking textarea {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+
+        .booking button {
+            background-color: #2e7d32;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .booking button:hover {
+            background-color: #1b5e20;
+        }
+
