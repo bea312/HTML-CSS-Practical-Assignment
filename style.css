@@ -415,18 +415,18 @@ h2 {
         /* Booking form */
         .booking {
             background-color: #fff3e0;
-            padding: 15px;
-            margin-top: 30px;
+            padding: 20px;
+            margin-top: 40px;
             border-radius: 8px;
         }
 
         .booking input,
         .booking textarea {
             width: 100%;
-            padding: 8px;
+            padding: 20px 4px;
             margin-bottom: 10px;
             border: 1px solid #ccc;
-            border-radius: 5px;
+            border-radius: 15px;
         }
 
         .booking button {
@@ -455,6 +455,8 @@ h2 {
             text-decoration: none;
             font-weight: bold;
         }
+      
+
 
         /* Responsive for smaller screens */
         @media (max-width: 900px) {
@@ -468,5 +470,11 @@ h2 {
                 width: 100%;
             }
         }
+   #kccfot {
+    background-color: #00695c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+    }
    
-    
