@@ -38,6 +38,3 @@ This project demonstrates:
 **Student Name:** Mukagasirabo Beatrice  
 **Course:** HTML & CSS Practical Assignment  
  
-
----
-git 
